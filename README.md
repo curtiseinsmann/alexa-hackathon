@@ -110,3 +110,7 @@ Now, work together with your team to come up with your own Alexa skill.  Be crea
   * Type a **Name** and then click the **Save** button
   * Click the **Test** button (upper right section)
   * Review the **Details** of the Execution results
+
+# LinkedIn
+
+* https://www.linkedin.com/in/curtis-einsmann-a6834154/  
